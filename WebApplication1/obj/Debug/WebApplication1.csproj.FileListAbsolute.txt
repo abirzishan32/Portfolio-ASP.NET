@@ -1,0 +1,180 @@
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+E:\Portfolio Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Portfolio Abir\WebApplication1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+E:\Portfolio Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\BouncyCastle.Cryptography.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Google.Protobuf.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.Streams.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\K4os.Hash.xxHash.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\MySql.Data.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Buffers.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.IO.Pipelines.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Memory.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\ZstdSharp.dll
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\BouncyCastle.Cryptography.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Google.Protobuf.pdb
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Google.Protobuf.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.Streams.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\K4os.Hash.xxHash.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\MySql.Data.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Buffers.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.IO.Pipelines.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Memory.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Portfolio Abir\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\BouncyCastle.Cryptography.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Google.Protobuf.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.Streams.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\K4os.Hash.xxHash.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\MySql.Data.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Buffers.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Configuration.ConfigurationManager.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.IO.Pipelines.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Memory.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\ZstdSharp.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\BouncyCastle.Cryptography.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Google.Protobuf.pdb
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Google.Protobuf.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\K4os.Compression.LZ4.Streams.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\K4os.Hash.xxHash.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\MySql.Data.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Buffers.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.IO.Pipelines.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Memory.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Portfolio_Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+E:\Portfolio_Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Portfolio_Abir\WebApplication1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+E:\Portfolio_Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Portfolio_Abir\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
