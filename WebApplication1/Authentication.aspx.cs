@@ -1,6 +1,7 @@
-﻿using System;
+using System;
 using System.Data;
 using System.Data.SqlClient;
+using System.Web;
 using System.Web.UI;
 
 namespace WebApplication1
@@ -9,8 +10,40 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            // You can register the event handler here if needed
-            // LoginButton.Click += LoginForm_ServerClick;
+            if (Session["username"] != null)
+            {
+                Response.Redirect("Dashboard.aspx");
+            }
+            else
+            {
+                HttpCookie cookie = Request.Cookies["userInfo"];
+                if (cookie != null)
+                {
+                    TextBox1.Text = cookie["username"].ToString();
+                    TextBox2.Text = Request.Cookies["password"].ToString();
+                }
+            }
+        }
+
+        protected void Cookie_Click(object sender, EventArgs e)
+        {
+            HttpCookie cookie = Request.Cookies["userInfo"];
+            if (cookie != null)
+            {
+                cookie.Expires = DateTime.Now.AddHours(-1);
+                TextBox1.Text = "";
+                TextBox2.Text = "";
+                Response.Redirect("Authentication.aspx");
+            }
+            else
+            {
+                Response.Write("No cookies found");
+            }
+            
+            TextBox1.Text = "";
+            TextBox2.Text = "";
+            Response.Redirect("Authentication.aspx");
+
         }
 
         protected void LoginForm_ServerClick(object sender, EventArgs e)
@@ -26,6 +59,13 @@ namespace WebApplication1
                 da.Fill(ds, "admin");
                 if (ds.Tables[0].Rows.Count != 0)
                 {
+                    HttpCookie cookie = new HttpCookie("username");
+                    HttpCookie cookie2 = new HttpCookie("password");
+                    cookie.Value = TextBox1.Text;
+                    cookie2.Value = TextBox2.Text;
+                    cookie.Expires = DateTime.Now.AddHours(1);
+                    cookie2.Expires = DateTime.Now.AddHours(1);
+                    Session["username"] = TextBox1.Text;
                     Response.Redirect("Dashboard.aspx");
                 }
                 else
